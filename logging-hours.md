@@ -1,5 +1,7 @@
 Date,Day,Activity,Hours
+
 Week 1: 
+
 2025-09-15; Monday; Reading the first 2 articles and papers that our sponsor required us to do plus doing some extra research( as I am new and unfamilar to the vocabulary around LGBTQ+ apps, etc); 2.47 
 2025-09-17; Wednesday; Setting-up my local R enviroment and familiarizing myself with the survey questions and the responses( we seem to have an overwhelmingly large amt of columns); 1.5 hr
 2025-09-18; Thursday; Reading the Georgraphy of digital sexuality, brainstorming questions and analysis that could be done with the data, and preparing questions and thoguht for our meeting with Jack tommorow; 2 
